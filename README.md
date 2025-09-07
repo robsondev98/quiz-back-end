@@ -1,18 +1,10 @@
-Mini Quis Backend em PHP
-
-
+   Mini Quis Backend em PHP
 
 Este projeto é um *quis de perguntas e respostas* desenvolvido em *PHP*, rodando totalmente no backend, sem uso de banco de dados.  
 
 O objetivo é praticar *lógica de programação, estruturas condicionais, loops, arrays e sessões em PHP*.
 
-
-
----
-
-
-
-## 🚀 Funcionalidades
+ - Funcionalidades
 
 - Exibe perguntas com múltipla escolha.
 
